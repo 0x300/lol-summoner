@@ -1,0 +1,15 @@
+{
+  "name": "lol-champ-search",
+  "version": "1.0.0",
+  "description": "Easily search for info regarding a specific champion",
+  "main": "search.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josh Lindoo",
+  "license": "ISC",
+  "dependencies": {
+    "open": "0.0.5",
+    "prompt": "^1.0.0"
+  }
+}
